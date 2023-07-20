@@ -1,6 +1,6 @@
 {
   "name": "@royal-markets/0xsplits",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "0xSplits smart contracts",
   "scripts": {
     "eslint": "eslint . --ext '.ts,.tsx'",
